@@ -1,4 +1,4 @@
-# Layoff Trends Analysis Dashboard (2020–2023)-Power-BI-SQL-Project
+# Layoff Trends Analysis Dashboard (2020–2023)-Power BI-SQL-Project
 
 This project analyzes global tech layoffs between 2020 and 2023 using Power BI and SQL to identify key patterns and mismanagement signals. The dashboard is designed for executive-level decision-making by investors, HR leaders, and market analysts.
 
