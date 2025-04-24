@@ -75,12 +75,12 @@ company, location, industry,	total_laid_off,	percentage_laid_off,	date,	stage,	c
 
 ### 🌐 Geography & Industry Insights
 
-- U.S. dominates layoffs, especially in the tech and finance sectors.
+- The U.S. accounts for the highest number of layoffs, especially in the tech and finance sectors.
 - Industries like Crypto and SaaS show volatile layoff trends.
 
 ### 💰 Funding Stage vs. Layoff Severity
 
-- Higher layoff impact in **Series D+** and **Post-IPO** companies.
+- Higher layoff impact in  **Series D+** and **Post-IPO** companies.
 - Indicates potential overfunding and poor workforce planning.
 
 ### 📉 Layoff Impact Metric
